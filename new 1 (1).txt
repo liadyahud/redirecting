@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0;url=https://drive.google.com/file/d/1K-B8iBZy2h4HO2W8qMmZ9Th0-8MXZLK6/view?usp=drive_link" />
+</head>
+<body>
+  <p>מעביר אותך... אם לא הופנית אוטומטית, לחץ <a href="https://drive.google.com/file/d/1K-B8iBZy2h4HO2W8qMmZ9Th0-8MXZLK6/view?usp=drive_link">כאן</a>.</p>
+</body>
+</html>
